@@ -1,5 +1,5 @@
-# Talk Back
-By Keturah Howard and Sommer T.
+# Shout Back
+By Keturah Howard and Jaki Widby.
 
 ## Description
 This application creates a feed back of what you submit in the form into all caps. Too lazy to use capslock, yet have all the energy in the world to use my awesome web application because me code is just that awesome? come here and enjoy my use of jQuery functions and html form practice. Thank you thank you, yes, your welcome for this lovely and useful application.  
